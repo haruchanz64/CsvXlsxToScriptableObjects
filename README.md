@@ -1,4 +1,4 @@
-# CSV & XLSX to ScriptableObjects (Unity Plugin)
+# Spreadsheet to ScriptableObjects (Unity Plugin)
 
 A zero-dependency Unity Editor package that converts `.csv`, `.tsv`, and `.xlsx` (Excel) spreadsheets into Unity `ScriptableObject` assets.
 
@@ -25,7 +25,7 @@ A zero-dependency Unity Editor package that converts `.csv`, `.tsv`, and `.xlsx`
 2. Click **+** (top-left) > **Add package from git URL...**
 3. Enter:
    ```
-   https://github.com/haruchanz64/CsvXlsxToScriptableObjects.git
+   https://github.com/haruchanz64/SpreadsheetToScriptableObjects.git
    ```
 
 ## Quick Start
