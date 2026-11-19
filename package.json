@@ -1,0 +1,28 @@
+{
+  "name": "com.haruchanz64.csv-xlsx-to-so",
+  "version": "1.0.0",
+  "displayName": "CSV & XLSX to ScriptableObjects",
+  "description": "Zero-dependency Unity Editor tool to convert CSV and XLSX spreadsheets into ScriptableObject assets with non-destructive re-importing, auto class generation, and reusable import profiles.",
+  "unity": "2021.3",
+  "keywords": [
+    "csv",
+    "xlsx",
+    "excel",
+    "spreadsheet",
+    "scriptableobject",
+    "data",
+    "importer",
+    "editor-tool"
+  ],
+  "author": {
+    "name": "haruchanz64",
+    "url": "https://github.com/haruchanz64/CsvXlsxToScriptableObjects"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Sample ItemData ScriptableObject along with example CSV and XLSX spreadsheets.",
+      "path": "Samples~/BasicExample"
+    }
+  ]
+}

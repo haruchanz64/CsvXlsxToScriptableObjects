@@ -1,0 +1,5 @@
+id,Display Name,description,goldValue,weight,stackable,rarity,tintColor,tags
+sword_iron,Iron Sword,"A sturdy, reliable blade.",120,3.5,false,Common,#C0C0C0,Weapon|Melee
+potion_health,Health Potion,Restores 50 HP immediately.,25,0.25,true,Common,#E53935,Consumable|Healing
+ring_arcane,Arcane Ring,"Boosts mana regeneration by 20%.",450,0.1,false,Rare,#42A5F5,Accessory|Magic
+crown_dragon,Dragon Crown,"Forged in ancient dragonfire.",2500,1.2,false,Legendary,#FFB300,Armor|Head|Unique
